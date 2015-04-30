@@ -1,0 +1,142 @@
+body{
+	background-color: rgba(0,0,0,0.1);
+	font-family:Verdana,Arial,Sans-serif;
+	width:100%;
+	height: 1200px;
+	display:block;
+}
+
+#header{
+	display:inline-flex;
+	justify-content:space-around;
+	position: relative;
+	top:0;
+	width:100%;
+	height:5%;
+	background-color:rgba(255,255,255,0.5);
+}
+
+#headlogo{
+	display:flex;
+	justify-content:center;
+	position:absolute;
+	left:0;
+	font-size:200%;
+	padding-top:1%;
+	font-weight: bolder;
+	width:40%;
+}
+.word2{
+	color: lightseagreen;
+}
+
+
+#header #menu{
+	display:inline-flex;
+	justify-content:center;
+	position:absolute;
+	left:45%;
+	bottom:50%;
+	width:60%;
+	height:40%;
+	width:50%;
+}
+
+
+#header #menu  ul{
+	width:100%;
+	height:100%;
+}
+
+#header #menu li{
+	display:inline-block;
+	font-size:60%;
+	width:15.5%;
+	height:80%;
+	text-align:center;
+	margin-left:1%;
+	padding-top:3%;
+	font-weight: bolder;
+}
+
+#header #menu li:hover{
+	background-color:white;
+	color:lightseagreen;
+}
+
+
+#context
+{
+	display:flex;
+	position:relative;
+	width:100%;
+	height:90%;
+}
+
+
+
+#footer{
+	display:flex;	
+	position: relative;
+	bottom:0;
+	width:100%;
+	height:5%;
+	background-color:rgba(255,255,255,0.5);
+}
+
+#footlogo{
+	
+	font-size:120%;
+	padding-top:2.5%;
+	padding-left:15%;
+	font-weight: bold;
+}
+
+#rights{
+	padding-top:2.5%;
+	display:inline-block;
+	font-size:45%;
+	padding-left:5%;
+	color:black;
+	width:30%;
+}
+
+#sprite{
+	
+	display:inline-block;
+	font-size:60%;
+	color:black;
+	width:30%;
+	height:25%;
+	padding-top:2%;
+}
+
+#sprite img{
+	opacity:1;
+	display:flex;
+	position:relative;
+	backgroung-color: black;
+	width:30%;	
+}
+
+#word3
+{	
+	margin-top:3%;
+}
+
+.word4
+{
+	color: lightseagreen;
+}
+.word5
+{
+	color: lightseagreen;
+	text-decoration: underline;
+}
+
+a{
+	color:black;
+}
+
+
+

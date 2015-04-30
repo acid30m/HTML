@@ -1,0 +1,70 @@
+
+#left
+{
+	line-height: 120%;
+	position:relative;
+	top:5%;
+	left:0;
+	width:100%;
+	height:50%;
+	
+}
+
+#right
+{	
+	position:absolute;
+	left:0;
+	top:25%;
+	width:100%;
+	height:45%;
+	text-align:left;
+	line-height: 120%;
+}
+
+iframe{
+	display:none;
+}
+
+
+
+#headlogo{
+	display:none;
+}
+
+#footlogo{
+	display:none;
+}
+
+
+#header #menu{
+	display:inline-flex;
+	justify-content:center;
+	position:absolute;
+	left:5%;
+	bottom:50%;
+	width:100%;
+	height:40%;
+	
+}
+
+#header #menu  ul{
+	width:100%;
+	height:100%;
+}
+
+#header #menu li{
+	display:inline-block;
+	font-size:60%;
+	width:16%;
+	height:80%;
+	text-align:center;
+	margin-left:1%;
+	padding-top:3%;
+	font-weight: bolder;
+}
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+
+#left
+{
+	line-height: 120%;
+	position:relative;
+	top:10%;
+	left:0;
+	width:40%;
+	height:70%;
+	
+}
+
+#right
+{	
+	position:absolute;
+	left:40%;
+	top:15%;
+	width:60%;
+	height:50%;
+	text-align:left;
+	line-height: 120%;
+}
+
+
+

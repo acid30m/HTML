@@ -1,0 +1,62 @@
+
+#left
+{
+	line-height: 120%;
+	position:relative;
+	top:10%;
+	left:10%;
+	width:40%;
+	height:70%;
+	
+}
+
+#right
+{	
+	position:absolute;
+	left:50%;
+	top:15%;
+	width:50%;
+	height:20%;
+	text-align:left;
+	line-height: 120%;
+}
+
+
+#markers{
+	margin-top:1%;
+	position:absolute;
+	width:50%;
+	height:100%;
+	top:0;
+	left:0;
+}
+
+#markers p{
+	margin-top:2%;
+}
+
+#forms
+{
+	position:absolute;
+	width:75%;
+	height:100%;
+	top:0;
+	left:20%;
+	margin-top:2%;
+}
+
+label{
+	margin-top:2%;
+}
+
+#headerC
+{
+	
+	font-size:200%;
+}
+
+#left li{
+	padding-left:5%;
+}
+
+

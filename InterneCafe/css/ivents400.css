@@ -1,0 +1,64 @@
+
+#mainline img{
+	display:none;
+	height:60%;
+	left:0%;
+	line-height: 120%;
+}
+
+
+
+aside{
+	
+	left:60%;
+	padding-top:0%;
+	height:55%;
+	width:23%;
+}
+
+
+aside img{
+	display:none;
+}
+
+iframe{
+	display:none;
+	
+}
+
+#headlogo{
+	display:none;
+}
+
+#footlogo{
+	display:none;
+}
+
+
+#header #menu{
+	display:inline-flex;
+	justify-content:center;
+	position:absolute;
+	left:5%;
+	bottom:50%;
+	width:100%;
+	height:40%;
+	
+}
+
+#header #menu  ul{
+	width:100%;
+	height:100%;
+}
+
+#header #menu li{
+	display:inline-block;
+	font-size:60%;
+	width:16%;
+	height:80%;
+	text-align:center;
+	margin-left:1%;
+	padding-top:3%;
+	font-weight: bolder;
+}
+
